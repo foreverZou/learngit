@@ -9,9 +9,8 @@
 	git branch dev 创建
 	git checkout dev	切换
 9.git branch命令查看当前分支
-<<<<<<< HEAD
 10.I Like，simplement！
-=======
-10.git merge dev 合并分支到当前分支
-11.git branch -d dev 删除分支
->>>>>>> bbq
+11.git merge dev 合并分支到当前分支
+12.git branch -d dev 删除分支
+13.git log --graph --pretty=oneline --abbrev-commit查看分支合并情况
+   git log --graph命令可以看到分支合并图
