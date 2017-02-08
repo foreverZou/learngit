@@ -1,3 +1,5 @@
 1.git remote add origin https://github.com/foreverZou/learngit.git  关联远程
 2.git push -u origin master 把本地推送到GitHub
 3.git push origin master 修改
+4.git status命令可以让我们时刻掌握仓库当前的状态
+5.git diff顾名思义就是查看difference，显示的格式正是Unix通用的diff格式，可以从上面的命令输出看到
