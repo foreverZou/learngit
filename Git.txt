@@ -5,3 +5,8 @@
 5.git diff顾名思义就是查看difference，显示的格式正是Unix通用的diff格式，可以从上面的命令输出看到
 6.git add 文件名.后缀 添加文件到仓库
 7.git commit -m "说明" 提交文件到仓库
+8.git checkout -b dev git checkout命令加上-b参数表示创建并切换，相当于以下两条命令
+	$ git branch dev
+	$ git checkout dev
+9.git branch命令查看当前分支
+10.2017年2月8日
