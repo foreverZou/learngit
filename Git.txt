@@ -12,3 +12,8 @@
 10.I Like，simplement！
 11.git merge dev 合并分支到当前分支
 12.git branch -d dev 删除分支
+<<<<<<< HEAD
+=======
+13.git log --graph --pretty=oneline --abbrev-commit查看分支合并情况
+   git log --graph命令可以看到分支合并图
+>>>>>>> Like
